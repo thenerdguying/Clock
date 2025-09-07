@@ -1,1 +1,0 @@
-FIlename: Clock.png
